@@ -26,6 +26,11 @@ the keyword `Nil`.
 To download the full set of cards select `<>Code` and `Download Zip`. Individual
 files can be downloaded from the directory.
 
+The cards are also provided in a printable format in `Draw Steel Ability Cards.pdf`
+The document is uses Letter paper size and should be configured to print with
+no scaling. It can also be printed on A4 paper by simply selecting that as the
+paper size (it fits).
+
 ## Bugs
 If you have found any bugs, please submit them [here](https://docs.google.com/forms/d/e/1FAIpQLSdsJISrTWTU2V8wbsES8-QF435yl7o2w5osDv238vYD4PlfFg/viewform?usp=dialog).
 
