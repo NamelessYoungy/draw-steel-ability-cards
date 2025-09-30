@@ -1,3 +1,9 @@
+# Draw Steel Ability Cards have moved!
+
+I've moved all future versions of the cards to [https://namelessyoungy.itch.io/draw-steel-ability-cards](https://namelessyoungy.itch.io/draw-steel-ability-cards)
+
+This repository will remain for the time being, but no future updates to the cards will be added here.
+
 # Draw Steel Ability Cards
 
 Draw Steel Ability Cards is an independent product published under the
